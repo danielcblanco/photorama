@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://danielcblanco.github.io/photorama/gallery/"  
-  - JOURNAL: "https://danielcblanco.github.io/photorama/journal/"
-  - ABOUT: "https://danielcblanco.github.io/photorama/about/"
+  - GALLERY: "https://danielcblanco.github.io/sitio/gallery/"  
+  - JOURNAL: "https://danielcblanco.github.io/sitio/journal/"
+  - ABOUT: "https://danielcblanco.github.io/sitio/about/"
 
 # All translation keys
 translations:
