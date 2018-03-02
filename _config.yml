@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://danielcblanco.github.io/sitio/gallery/"  
-  - JOURNAL: "https://danielcblanco.github.io/sitio/journal/"
-  - ABOUT: "https://danielcblanco.github.io/sitio/about/"
+  - PORTAFOLIO: "https://danielcblanco.github.io/sitio/portafolio/"  
+  - PROYECTOS: "https://danielcblanco.github.io/sitio/proyectos/"
+  - ACERCA DE MI: "https://danielcblanco.github.io/sitio/acerca/"
 
 # All translation keys
 translations:
@@ -52,10 +52,10 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-paginate_path: "/journal/page:num/"
-permalink: "/journal/:title/"
-categories_path: "/journal/category/"
-tags_path: "/journal/tag/"
+paginate_path: "/proyectos/page:num/"
+permalink: "/proyectos/:title/"
+categories_path: "/proyectos/category/"
+tags_path: "/proyectos/tag/"
 gems: 
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
